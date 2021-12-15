@@ -27,7 +27,7 @@
 
 <br /><br />
 
-<div align="center">
+<div>
     <div align="center">
         <strong>I am proficient in the following</strong>
     </div>
