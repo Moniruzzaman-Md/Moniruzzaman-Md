@@ -26,7 +26,7 @@
 
 <div align="center" style="padding: 10px; border:1px solid #6600cc">
 <div align="center">
-<strong>I am proficient in the following</strong>
+<h3>I am proficient in the following</h3>
 </div>
 
 <br/><br/>
