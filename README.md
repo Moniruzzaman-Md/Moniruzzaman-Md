@@ -18,5 +18,5 @@
 </div>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Moniruzzaman-Md&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=Moniruzzaman-Md&&style=flat&color=6600cc" align="center" />
 </div>
