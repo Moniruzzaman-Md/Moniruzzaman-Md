@@ -1,5 +1,5 @@
 <div>
-<div align="center" style="padding: 10px; border:1px solid">
+<div align="center" style="padding: 10px; border:1px solid #6600cc">
 <a href="https://github.com/Moniruzzaman-Md" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -24,7 +24,7 @@
 
 <br/><br/>
 
-<div align="center" style="padding: 10px; border:1px solid">
+<div align="center" style="padding: 10px; border:1px solid #6600cc">
 <div align="center">
 <strong>I am proficient in the following</strong>
 </div>
