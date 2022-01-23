@@ -15,6 +15,10 @@
 <a href="mailto:mzaman762@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>
+    
+<a href="tel:8801404233019" target="_blank">
+<img src=https://img.shields.io/badge/WatsApp-+8801404233019-blue?style=for-the-badge&logo=WhatsApp&logoColor=white alt=watsapp style="margin-bottom: 5px;" />
+</a>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Moniruzzaman-Md&&style=flat&color=6600cc" align="center" />
